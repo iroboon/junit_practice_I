@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6690283-92ee-4d52-97d1-3fdf1aa0640d" name="Default Changelist" comment="" />
+    <list default="true" id="f6690283-92ee-4d52-97d1-3fdf1aa0640d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/practice/I/ValidationMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/practice/I/ValidationMethodsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/junit/practice/I/ValidationMethodsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/junit/practice/I/ValidationMethodsTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +27,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QeEq8Glyhsawd2dNGKdnETcww1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
@@ -61,7 +71,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in junit-practice-I">
+  <component name="RunManager" selected="JUnit.All in junit-practice-I (1)">
+    <configuration name="All in junit-practice-I (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-practice-I" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in junit-practice-I" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-practice-I" />
       <option name="PACKAGE_NAME" value="" />
@@ -83,22 +101,6 @@
       <option name="METHOD_NAME" value="testFoo" />
       <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidationMethodsTest.test_isLettersOnly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-practice-I" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="junit.practice.I.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="junit.practice.I" />
-      <option name="MAIN_CLASS_NAME" value="junit.practice.I.ValidationMethodsTest" />
-      <option name="METHOD_NAME" value="test_isLettersOnly" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,7 +137,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidationMethodsTest.test_isValidDateString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidationMethodsTest.test_isValidSpecialString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-practice-I" />
       <extension name="coverage">
         <pattern>
@@ -145,7 +147,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="junit.practice.I" />
       <option name="MAIN_CLASS_NAME" value="junit.practice.I.ValidationMethodsTest" />
-      <option name="METHOD_NAME" value="test_isValidDateString" />
+      <option name="METHOD_NAME" value="test_isValidSpecialString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in junit-practice-I (1)" />
         <item itemvalue="JUnit.All in junit-practice-I" />
-        <item itemvalue="JUnit.ValidationMethodsTest.test_isValidDateString" />
-        <item itemvalue="JUnit.ValidationMethodsTest.test_isNumeric" />
+        <item itemvalue="JUnit.ValidationMethodsTest.test_isValidSpecialString" />
         <item itemvalue="JUnit.ValidationMethodsTest.test_isPositiveNumeric" />
-        <item itemvalue="JUnit.ValidationMethodsTest.test_isLettersOnly" />
+        <item itemvalue="JUnit.ValidationMethodsTest.test_isNumeric" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +175,17 @@
       <updated>1568122849969</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/junit_5_basics$MathUtilsTest_testAdd.ic" NAME="MathUtilsTest.testAdd Coverage Results" MODIFIED="1568162146963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
