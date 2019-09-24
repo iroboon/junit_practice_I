@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6690283-92ee-4d52-97d1-3fdf1aa0640d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="16" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="junit-5-basics" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QeEq8Glyhsawd2dNGKdnETcww1" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="junit.practice.I" />
+      <recent name="IO.Javabrains" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in junit-practice-I">
+    <configuration name="All in junit-practice-I" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-practice-I" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtilsTest.testFoo" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="junit-5-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.Javabrains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IO.Javabrains" />
+      <option name="MAIN_CLASS_NAME" value="IO.Javabrains.MathUtilsTest" />
+      <option name="METHOD_NAME" value="testFoo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationMethodsTest.test_isLettersOnly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-practice-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.practice.I.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.practice.I" />
+      <option name="MAIN_CLASS_NAME" value="junit.practice.I.ValidationMethodsTest" />
+      <option name="METHOD_NAME" value="test_isLettersOnly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationMethodsTest.test_isNumeric" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-practice-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.practice.I.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.practice.I" />
+      <option name="MAIN_CLASS_NAME" value="junit.practice.I.ValidationMethodsTest" />
+      <option name="METHOD_NAME" value="test_isNumeric" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationMethodsTest.test_isPositiveNumeric" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-practice-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.practice.I.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.practice.I" />
+      <option name="MAIN_CLASS_NAME" value="junit.practice.I.ValidationMethodsTest" />
+      <option name="METHOD_NAME" value="test_isPositiveNumeric" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationMethodsTest.test_isValidDateString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-practice-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.practice.I.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.practice.I" />
+      <option name="MAIN_CLASS_NAME" value="junit.practice.I.ValidationMethodsTest" />
+      <option name="METHOD_NAME" value="test_isValidDateString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in junit-practice-I" />
+        <item itemvalue="JUnit.ValidationMethodsTest.test_isValidDateString" />
+        <item itemvalue="JUnit.ValidationMethodsTest.test_isNumeric" />
+        <item itemvalue="JUnit.ValidationMethodsTest.test_isPositiveNumeric" />
+        <item itemvalue="JUnit.ValidationMethodsTest.test_isLettersOnly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6690283-92ee-4d52-97d1-3fdf1aa0640d" name="Default Changelist" comment="" />
+      <created>1568122849969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568122849969</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/junit_5_basics$MathUtilsTest_testAdd.ic" NAME="MathUtilsTest.testAdd Coverage Results" MODIFIED="1568162146963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IO.Javabrains.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_5_basics$MathUtilsTest_add.ic" NAME="MathUtilsTest.add Coverage Results" MODIFIED="1568128718661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IO.Javabrains.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit_5_basics$All_in_junit_5_basics.ic" NAME="All in junit-5-basics Coverage Results" MODIFIED="1568130839207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
